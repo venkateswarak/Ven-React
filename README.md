@@ -2,14 +2,15 @@ This project was to review my react knowledge where I worked on different featur
 
 However this is bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Covered features in ###React such as 
-using ##ContextAPI, Refs, hooks like useState, useEffect, useRef, useContext
-using ##LifeCycle hooks like getDerivedStateFromProps, componentDidUpdate, getSnapshotBeforeUpdate, shouldComponentUpdate, componentDidMount, constructor, render, componentDidUnmount
-using ##PureComponent
-using ##HOC
-using ##ErrorBoundaries
-using ##setState, useState
-making state ##immutable
-using ##CSS Modules
+ 
+### Covered features inReact such as 
+** using ContextAPI, Refs, hooks like useState, useEffect, useRef, useContext
+** using LifeCycle hooks like getDerivedStateFromProps, componentDidUpdate, getSnapshotBeforeUpdate, shouldComponentUpdate, componentDidMount, constructor, render, componentDidUnmount
+** using PureComponent
+** using HOC
+** usingErrorBoundaries
+** using setState, useState
+** making state immutable
+** using CSS Modules
 
-###and many more
+### and many more
